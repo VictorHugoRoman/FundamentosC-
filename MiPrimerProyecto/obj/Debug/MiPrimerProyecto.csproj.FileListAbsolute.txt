@@ -5,3 +5,9 @@ C:\Users\Desarrollo02\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\M
 C:\Users\Desarrollo02\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
 C:\Users\Desarrollo02\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
 C:\Users\Desarrollo02\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+D:\Codigo\C#\UdemyMasterC#\FundamentosC-\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+D:\Codigo\C#\UdemyMasterC#\FundamentosC-\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+D:\Codigo\C#\UdemyMasterC#\FundamentosC-\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+D:\Codigo\C#\UdemyMasterC#\FundamentosC-\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+D:\Codigo\C#\UdemyMasterC#\FundamentosC-\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+D:\Codigo\C#\UdemyMasterC#\FundamentosC-\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
